@@ -3722,7 +3722,7 @@ MonoBehaviour:
   maxHp: 20
   hp: 20
   gotHitCooldown: 0.1
-  hpRegenCooldown: 3
+  hpRegenCooldown: 2
   hpRegenTimer: 0
 --- !u!136 &662800736
 CapsuleCollider:

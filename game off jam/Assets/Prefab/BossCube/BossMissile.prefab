@@ -261,7 +261,7 @@ MonoBehaviour:
     m_Bits: 200
   turnSpeed: 150
   moveSpeed: 20
-  damage: 1
+  damage: 3
   knockBackForce: 10
 --- !u!1 &8786735636468685360
 GameObject:

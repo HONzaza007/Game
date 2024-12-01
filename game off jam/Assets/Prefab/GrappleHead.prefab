@@ -51,7 +51,7 @@ MonoBehaviour:
   grapplingPoint: {fileID: 141667676446990}
   boxCollider: {fileID: 4023101279879124072}
   moveSpeed: 80
-  destroyTime: 0.35
+  destroyTime: 0.7
 --- !u!1 &7938644518579280780
 GameObject:
   m_ObjectHideFlags: 0
